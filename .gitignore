@@ -1,0 +1,10 @@
+# Floci local state / persisted data
+data/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
